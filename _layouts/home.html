@@ -11,7 +11,8 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{{ post.title | escape }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.content}}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
+          {{ post.content}}
         </h2>
       </li>
     {% endfor %}
