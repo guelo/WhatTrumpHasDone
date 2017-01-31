@@ -1,0 +1,22 @@
+---
+layout: post
+title: Day 9
+date:   2017-01-28
+---
+
+* [reorganized the National Security Council adding Steve Bannon, removing the chairman of the Joint Chiefs of Staff](http://www.npr.org/sections/thetwo-way/2017/01/29/512295108/with-national-security-council-shakeup-steve-bannon-gets-a-seat-at-the-table)
+  * [link](https://www.whitehouse.gov/the-press-office/2017/01/28/presidential-memorandum-organization-national-security-council-and)
+* [order Pentagon to produce plan to defeat ISIS](https://www.washingtonpost.com/politics/trump-holds-calls-with-putin-leaders-from-europe-and-asia/2017/01/28/42728948-e574-11e6-a547-5fb9411d332c_story.html?hpid=hp_no-name_no-name:page/breaking-news-bar&tid=a_breakingnews&utm_term=.a58d07a375bf)
+  * [link](https://www.whitehouse.gov/the-press-office/2017/01/28/plan-defeat-islamic-state-iraq)  
+* [Executive order on muslim ban was not vetted](https://lawfareblog.com/malevolence-tempered-incompetence-trumps-horrifying-executive-order-refugees-and-visas)
+  * not reviewed by DHS, the Justice Department, the State Department, or the Department of Defense, and that National Security Council lawyers were prevented from evaluating it
+  * Customs and Border Protection and U.S. Citizen and Immigration Services, the agencies tasked with carrying out the policy, were only given a briefing call
+  * [link](http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/index.html)
+  * officials didn't know which countries would be barred
+  * DHS determined the 7 banned countries: Iran, Iraq, Libya, Somalia, Syria, Sudan and Yemen  
+  * guidance sent to airlines on Friday night: "lawful permanent residents are not included and may continue to travel to the USA." 
+  * White House overruled DHS and said green card holders could travel and then would be reviewed by DHS
+  * OLC signed off and agency review was performed.
+* [Julie Kirchner named chief of staff at U.S. Customs and Border Protection](https://www.splcenter.org/hatewatch/2017/01/23/former-executive-director-anti-immigrant-hate-group-fair-joins-trump-administration) 
+  * worked at America’s most influential anti-immigrant organization, FAIR, for ten years 
+  
