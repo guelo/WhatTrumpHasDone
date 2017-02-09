@@ -1,0 +1,10 @@
+---
+layout: post
+title: Day 15
+date:   2017-02-03
+---
+
+* [Iran sanctions in response to Iranian missle test](http://www.orlandosentinel.com/la-na-essential-washington-updates-donald-trump-imposes-sanctions-on-1486134141-htmlstory.html)
+  * [text](https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20170203.aspx)
+* [FCC stopping 9 companies from providing federally subsidized Internet to the poor](https://www.washingtonpost.com/news/the-switch/wp/2017/02/03/the-fcc-is-stopping-9-companies-from-providing-subsidized-broadband-to-the-poor/)
+* [Gina Haspel to be the deputy director of the CIA](http://thehill.com/policy/national-security/317629-trump-taps-cia-veteran-for-agencys-second-in-command)

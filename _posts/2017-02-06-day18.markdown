@@ -1,0 +1,11 @@
+---
+layout: post
+title: Day 18
+date:   2017-02-06
+---
+
+* [Starts rollback of Dodd-Frank and Fiduciary rule](https://www.nytimes.com/2017/02/03/business/dealbook/trump-congress-financial-regulations.html)
+* [FBI stops accepting FOIA requests by email](https://techcrunch.com/2017/02/06/fbi-foia-fax-march-2017/)
+* [Appeal muslim ban ban to appeals court](https://mobile.nytimes.com/2017/02/06/us/politics/trump-travel-ban-court.html)
+* [deputy secretary of the Army will grant the final permit needed to complete the Dakota Access Pipeline](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/07/trump-administration-to-approve-final-permit-for-dakota-access-pipeline/)
+* [deny entry to some muslim Canadians](http://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.3972400/canadian-woman-denied-entry-to-u-s-after-muslim-prayers-found-on-her-phone-1.3972404)
