@@ -4,7 +4,8 @@ title: Day 6
 date:   2017-01-25
 ---
 
-* [Executive Order on undocumented](http://www.reuters.com/article/us-usa-trump-comey-idUSKBN1581WM)
+* [Executive Order on undocumented](https://www.whitehouse.gov/the-press-office/2017/01/25/presidential-executive-order-enhancing-public-safety-interior-united)
+  * [link](http://www.reuters.com/article/us-usa-trump-comey-idUSKBN1581WM))
   * Removes federal grant money from sanctuary cities as determined by the attorney general except law enforcement.
   * hire 10,000 immigration officers
   * deputize state and local officers for immigration enforcement
